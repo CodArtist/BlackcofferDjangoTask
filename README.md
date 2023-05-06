@@ -11,7 +11,7 @@ To run this app locally, you'll need to have Python and Neo4j installed on your 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/movie-search-webapp.git
+   git clone https://github.com/CodArtist/BlackcofferDjangoTask.git
    ```
 
 2. Install the required Python packages:
